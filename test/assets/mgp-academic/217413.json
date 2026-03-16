@@ -1,0 +1,31 @@
+{
+  "MGP_academic": {
+    "ID": "217413",
+    "family_name": "Dervan",
+    "given_name": "Ruadhaí",
+    "mrauth_id": "1136311",
+    "other_names": "",
+    "student_data": {
+      "degrees": [
+        {
+          "advised by": {
+            "93925": "Ross, Julius"
+          },
+          "degree_msc": "14",
+          "degree_type": "Ph.D.",
+          "degree_year": "2016",
+          "schools": ["University of Cambridge, United Kingdom"],
+          "thesis_title": "Canonical Kähler metrics and K-stability"
+        }
+      ],
+      "descendants": {
+        "advisees": [
+          ["304767", "Ortu, Annamaria"],
+          ["292875", "Hallam, Michael"],
+          ["293462", "McCarthy, John Benjamin"]
+        ],
+        "descendant_count": 3
+      }
+    }
+  }
+}

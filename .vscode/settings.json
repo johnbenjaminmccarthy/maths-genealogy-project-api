@@ -1,0 +1,32 @@
+{
+  // Relies on rohit-gohri.format-code-action extension
+
+  // Turn off format on save so that Prettier and ESLint formatting are both controlled by codeActionsOnSave
+  "editor.formatOnSave": false,
+  // Array format so that VS Code runs one formatter and then the other sequentially, rather than attemping to run them simultaneously
+  "editor.codeActionsOnSave": [
+    // Prettier formatting first
+    "source.formatDocument",
+    // Once Prettier is done, then evaluate and run ESLint autofixes
+    "source.fixAll.eslint"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

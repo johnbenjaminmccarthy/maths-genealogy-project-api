@@ -1,0 +1,81 @@
+{
+  "MGP_academic": {
+    "ID": "36909",
+    "family_name": "Donaldson",
+    "given_name": "Simon",
+    "mrauth_id": "59010",
+    "other_names": "Kirwan",
+    "student_data": {
+      "degrees": [
+        {
+          "advised by": {
+            "30949": "Atiyah, Michael Francis",
+            "43911": "Hitchin, Nigel James"
+          },
+          "degree_msc": "Unknown",
+          "degree_type": "D.Phil.",
+          "degree_year": "1983",
+          "schools": ["University of Oxford, United Kingdom"],
+          "thesis_title": "The Yang-Mills Equations on Kähler Manifolds"
+        }
+      ],
+      "descendants": {
+        "advisees": [
+          ["186346", "Oliveira, Goncalo"],
+          ["49509", "Garcia-Prada, Oscar"],
+          ["93793", "Hong, Ying-Ji"],
+          ["91244", "Thaddeus, Michael"],
+          ["93784", "Banfield, Darren"],
+          ["93785", "Buttler, Michael"],
+          ["93787", "de Silva, Vin"],
+          ["93788", "Fine, Joel"],
+          ["93789", "Frøyshov, Kim"],
+          ["93790", "Gantz, Christian"],
+          ["93791", "Guha, Partha"],
+          ["93792", "Guo, G.-Y."],
+          ["93794", "Jarvis, Stuart"],
+          ["93795", "Joyce, Dominic"],
+          ["93797", "Kotschick, Dieter"],
+          ["93798", "Kovalev, Alexei"],
+          ["93801", "Martin, Shaun"],
+          ["93802", "Mong, Kai-Cheung"],
+          ["93803", "Nelson, Graham"],
+          ["93804", "Perutz, Timothy"],
+          ["93805", "Pons, Daniel"],
+          ["93806", "Raza, Aleksis"],
+          ["93807", "Saksida, Pavle"],
+          ["93808", "Seidel, Paul"],
+          ["93809", "Selby, Matthew"],
+          ["93810", "Sheppard, Alan"],
+          ["93811", "Smith, Ivan"],
+          ["93812", "Thomas, Richard Paul"],
+          ["93925", "Ross, Julius"],
+          ["94375", "Hodge, Thomas"],
+          ["95254", "Nasatyr, Emile Ben"],
+          ["93796", "King, Alastair"],
+          ["93799", "Leung, Raymond"],
+          ["107702", "Szekelyhidi, Gabor"],
+          ["138533", "Wright, Dominic"],
+          ["49516", "Jardim, Marcos"],
+          ["93800", "Maciocia, Antony"],
+          ["152961", "Sá Earp, Henrique N."],
+          ["93813", "Wang, Shuguang"],
+          ["170572", "Spotti, Cristiano"],
+          ["171993", "Hall, Stuart James"],
+          ["179764", "Walpuski, Thomas"],
+          ["36908", "Muñoz, Vicente"],
+          ["237655", "de Borbon, Martin"],
+          ["249141", "Doan, Aleksander"],
+          ["254669", "Farhadpour, Hamed"],
+          ["259089", "Sektnan, Lars Martin"],
+          ["272547", "Li, Yang"],
+          ["285804", "Platt, Daniel"],
+          ["286274", "Habibi Esfahani, Saman"],
+          ["293462", "McCarthy, John Benjamin"],
+          ["93786", "Choy, S.-H."]
+        ],
+        "descendant_count": 268
+      }
+    }
+  }
+}

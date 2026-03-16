@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "types": ["node"]
+  },
+  "include": ["lib/**/*.ts", "test/**/*.ts", "eslint.config.ts", "prettier.config.ts"],
+  "exclude": ["node_modules", "dist"]
+}

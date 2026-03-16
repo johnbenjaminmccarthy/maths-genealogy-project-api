@@ -1,0 +1,87 @@
+{
+  "name": "maths-genealogy-project-api",
+  "version": "1.0.0",
+  "description": "A thin, independent wrapper over the MGP v2 REST API",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./types": {
+      "types": "./dist/types/index.d.ts",
+      "default": "./dist/types/index.js"
+    },
+    "./entities": {
+      "types": "./dist/entities/index.d.ts",
+      "default": "./dist/entities/index.js"
+    },
+    "./dto/api-v2": {
+      "types": "./dist/dto/api-v2/index.d.ts",
+      "default": "./dist/dto/api-v2/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "CHANGELOG.md",
+    "LICENSE.md",
+    "README.md",
+    "package.json"
+  ],
+  "scripts": {
+    "build": "tsc --build --clean && tsc --project tsconfig.build.json",
+    "test:unit": "vitest run --passWithNoTests test/unit",
+    "test:integration": "vitest run --passWithNoTests --fileParallelism=false test/integration",
+    "test": "pnpm test:unit && pnpm test:integration",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "format": "prettier --check .",
+    "format:fix": "prettier --write .",
+    "typecheck": "tsc --noEmit",
+    "check": "pnpm lint && pnpm format && pnpm typecheck && pnpm test",
+    "check:fix": "pnpm lint:fix && pnpm format:fix && pnpm typecheck && pnpm test",
+    "prepublishOnly": "pnpm install --frozen-lockfile && pnpm check && pnpm build"
+  },
+  "keywords": [
+    "maths",
+    "genealogy",
+    "project",
+    "api",
+    "wrapper",
+    "node",
+    "typescript",
+    "zod"
+  ],
+  "author": "John Benjamin McCarthy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnbenjaminmccarthy/maths-genealogy-project-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnbenjaminmccarthy/maths-genealogy-project-api/issues"
+  },
+  "homepage": "https://github.com/johnbenjaminmccarthy/maths-genealogy-project-api",
+  "sideEffects": false,
+  "packageManager": "pnpm@10.28.0",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@trivago/prettier-plugin-sort-imports": "^6.0.2",
+    "@types/node": "^25.3.0",
+    "dotenv": "^17.3.1",
+    "eslint": "^10.0.1",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-jsdoc": "^62.7.0",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.56.0",
+    "vitest": "^4.0.18",
+    "jiti": "^2.6.1"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}

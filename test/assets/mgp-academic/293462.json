@@ -1,0 +1,28 @@
+{
+  "MGP_academic": {
+    "ID": "293462",
+    "family_name": "McCarthy",
+    "given_name": "John",
+    "mrauth_id": "",
+    "other_names": "Benjamin",
+    "student_data": {
+      "degrees": [
+        {
+          "advised by": {
+            "36909": "Donaldson, Simon Kirwan",
+            "217413": "Dervan, Ruadhaí"
+          },
+          "degree_msc": "53",
+          "degree_type": "Ph.D.",
+          "degree_year": "2023",
+          "schools": ["Imperial College London, United Kingdom"],
+          "thesis_title": "Stability conditions and canonical metrics"
+        }
+      ],
+      "descendants": {
+        "advisees": [""],
+        "descendant_count": 0
+      }
+    }
+  }
+}

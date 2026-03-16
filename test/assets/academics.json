@@ -1,0 +1,1367 @@
+[
+  {
+    "MGP_academic": {
+      "ID": "1004",
+      "family_name": "Lai",
+      "given_name": "Dejian",
+      "mrauth_id": "610167",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11963": "Wiorkowski, John James",
+              "34436": "Wang, Xiaobao"
+            },
+            "degree_msc": "62",
+            "degree_type": "Ph.D.",
+            "degree_year": "1994",
+            "schools": ["University of Texas at Dallas, United States"],
+            "thesis_title": "Contributions to Nonlinear Time Series Analysis"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1005",
+      "family_name": "Erdelyi",
+      "given_name": "Tamas",
+      "mrauth_id": "63810",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11640": "Nevai, Paul"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1989",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Inequalities for Generalized Polynomials"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1006",
+      "family_name": "Reese",
+      "given_name": "Margaret",
+      "mrauth_id": "321372",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "5767": "Roberts, James Warren"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1989",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "An Example Related to the Atomic Space Problem"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1007",
+      "family_name": "Hu",
+      "given_name": "Yingkang",
+      "mrauth_id": "310965",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10109": "DeVore, Ronald Alvin"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1989",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Geometric Modeling of Densely Distributed Data"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1008",
+      "family_name": "Wu",
+      "given_name": "Ming-Shen",
+      "mrauth_id": "325274",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10271": "Griggs, Jerrold Robinson"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1989",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Spanning Trees and Other Problems"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1009",
+      "family_name": "Yeh",
+      "given_name": "Kwan-Ching",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10271": "Griggs, Jerrold Robinson"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1990",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Labeling Graphs with a Condition at Distance Two"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1010",
+      "family_name": "Beintema",
+      "given_name": "Mark",
+      "mrauth_id": "320844",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "4274": "Miller, Matthew"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1990",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Gorenstein Algebras with Unimodal h-Sequences"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1011",
+      "family_name": "Palmer",
+      "given_name": "Susan",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "4273": "Kustin, Andrew Richard"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1990",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Algebraic Structures on Resolutions of Rings Defined by Grade Four Almost Complete Intersections"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1012",
+      "family_name": "Ren",
+      "given_name": "Guanshen",
+      "mrauth_id": "327150",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "626": "Nyikos, Peter Joseph"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1990",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "On Non-Archimedean Normed Spaces"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1013",
+      "family_name": "Still",
+      "given_name": "Bert",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "22665": "Johnson, George Wendell"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1990",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Parallel Methods for Unconstrained Optimization"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1014",
+      "family_name": "Liu",
+      "given_name": "Shih-Hua",
+      "mrauth_id": "730913",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10315": "Stoll, Manfred"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1991",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Boundary Limits of Generalized Green Potentials on the until Ball Rn"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1015",
+      "family_name": "Chen",
+      "given_name": "Hsinjun",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "5767": "Roberts, James Warren"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1991",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Compact Convex Sets and the Barycenter in L+0"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1016",
+      "family_name": "Hong",
+      "given_name": "Weihu",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "15041": "Sharpley, Robert Caldwell"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1991",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Interpolation of Function Spaces"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1017",
+      "family_name": "Kammoun",
+      "given_name": "Jamel",
+      "mrauth_id": "340293",
+      "other_names": "A.",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "626": "Nyikos, Peter Joseph"
+            },
+            "degree_msc": "54",
+            "degree_type": "Ph.D.",
+            "degree_year": "1991",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Products with a k-metrizable Factor"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1018",
+      "family_name": "Li",
+      "given_name": "Kuo-Ming",
+      "mrauth_id": "339536",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "5767": "Roberts, James Warren"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1991",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "LO-type Spaces"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1019",
+      "family_name": "Liu",
+      "given_name": "Der-fen",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10271": "Griggs, Jerrold Robinson"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1991",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Graph Homomorphisms and the Channel Assignment Problem"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1020",
+      "family_name": "Sun",
+      "given_name": "Christine",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10271": "Griggs, Jerrold Robinson"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1991",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Binomial Determinants with Applications"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1021",
+      "family_name": "Zhao",
+      "given_name": "Shiying",
+      "mrauth_id": "235364",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10315": "Stoll, Manfred",
+              "10466": "Howard, Ralph Elwood"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1991",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Boundary Behavior of Subharmonic Functions in Nontangential Accessible Domains"
+          }
+        ],
+        "descendants": {
+          "advisees": [["102315", "Zhu, Jiehua"]],
+          "descendant_count": 1
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1022",
+      "family_name": "Bdeir",
+      "given_name": "Yousef",
+      "mrauth_id": "357156",
+      "other_names": "A.",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "622": "Stephenson Jr., Robert Moffatt"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1992",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "P-minimal and P-closed Spaces"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1023",
+      "family_name": "Hsiao",
+      "given_name": "Chia-chang",
+      "mrauth_id": "843113",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11312": "Jawerth, Björn D."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1992",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Rectangular Wavelets and Compression of Operators"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1024",
+      "family_name": "Kyriazis",
+      "given_name": "George",
+      "mrauth_id": "339446",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10109": "DeVore, Ronald Alvin"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1992",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Wavelet Decompositions and Spaces of Functions"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1025",
+      "family_name": "Yarnall",
+      "given_name": "Kenneth",
+      "mrauth_id": "",
+      "other_names": "Fletcher",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11312": "Jawerth, Björn D.",
+              "15041": "Sharpley, Robert Caldwell"
+            },
+            "degree_msc": "42",
+            "degree_type": "Ph.D.",
+            "degree_year": "1992",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Sampling Theorems and Wavelet Bases"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1026",
+      "family_name": "Day",
+      "given_name": "Colin",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "22532": "Schep, Anton R."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1992",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Spectral Mapping Theorems for Fractionally Integrated Semigroups"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1027",
+      "family_name": "Lin",
+      "given_name": "Yan-chuan",
+      "mrauth_id": "678728",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10271": "Griggs, Jerrold Robinson"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1993",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Planar Graphs with Few Vertices of Small Degree"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1028",
+      "family_name": "Deng",
+      "given_name": "Baiqaio",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11312": "Jawerth, Björn D."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1993",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Biorthogonal Wavelet Packets"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1029",
+      "family_name": "Fadimba",
+      "given_name": "Koffi",
+      "mrauth_id": "604273",
+      "other_names": "B.",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "15041": "Sharpley, Robert Caldwell"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1993",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Regularization and Numerical Methods for a Class of Porous Media Equations"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1030",
+      "family_name": "Hsu",
+      "given_name": "Yu-ping",
+      "mrauth_id": "343246",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "14938": "Dilworth, Stephen James"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1993",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "The Ukk Property of LW, 1 and CE"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1031",
+      "family_name": "Jonas",
+      "given_name": "Kim",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10271": "Griggs, Jerrold Robinson"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1993",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Graph Coloring Analogues with a Condition at Distance Two"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1032",
+      "family_name": "Lee",
+      "given_name": "Mong-shu",
+      "mrauth_id": "350359",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11312": "Jawerth, Björn D."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1993",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Smoothness Spaces via Wavelets on the Closed Interval [0,1]"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1033",
+      "family_name": "Sisson",
+      "given_name": "Paul",
+      "mrauth_id": "358532",
+      "other_names": "D.",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "5767": "Roberts, James Warren"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1993",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Compact Operators on Trivial-Dual Spaces"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1034",
+      "family_name": "Dujmovic",
+      "given_name": "Davorin",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "12996": "McNulty, George Frank"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1994",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Infinite Finitely Presentable Simple Groups: Membership Problem, Free Subgroups"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1035",
+      "family_name": "Mitrea",
+      "given_name": "Marius",
+      "mrauth_id": "341602",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11312": "Jawerth, Björn D."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1994",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Clifford Algebras in Harmonic Analysis and Elliptic Boundary Value Problems"
+          }
+        ],
+        "descendants": {
+          "advisees": [
+            ["143350", "Wright, Matthew"],
+            ["233703", "Alvarado, Ryan"],
+            ["109815", "Jakab, Tunde"],
+            ["167082", "Ziadé, Elia"],
+            ["41018", "Mayboroda, Svitlana"],
+            ["255854", "Marín, Juan José"],
+            ["293856", "Schmutzler, Brock"],
+            ["332765", "Laurel, Marcus"],
+            ["293857", "Brewster, Kevin"],
+            ["293859", "Barb, Simona"],
+            ["293860", "Shi, Qiang"]
+          ],
+          "descendant_count": 17
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1036",
+      "family_name": "Piatkiewicz",
+      "given_name": "Leszek",
+      "mrauth_id": "214889",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "626": "Nyikos, Peter Joseph"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1994",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Paracompact Spaces in Box Prod. Topology and Equivalence of Proper Forcing Axiom"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1037",
+      "family_name": "von Rosenberg",
+      "given_name": "Peter",
+      "mrauth_id": "656058",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "626": "Nyikos, Peter Joseph"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1994",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Countable and Finite Migrant Covers"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1038",
+      "family_name": "Wu",
+      "given_name": "Qun",
+      "mrauth_id": "737888",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11312": "Jawerth, Björn D."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1994",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "P-Wavelets and their Applications"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1039",
+      "family_name": "Ouyang",
+      "given_name": "Jianxin",
+      "mrauth_id": "626165",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10271": "Griggs, Jerrold Robinson"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1994",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Zarankiewicz Problem and Connectivity of k-Chromatic Graphs"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1040",
+      "family_name": "Beasley",
+      "given_name": "Brian",
+      "mrauth_id": "678746",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "865": "Filaseta, Michael Anthony"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1995",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "The Distribution of Powerfree Values of Irreducible Polynomials"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1041",
+      "family_name": "Sabac",
+      "given_name": "Florin",
+      "mrauth_id": "626420",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10109": "DeVore, Ronald Alvin"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1995",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Hyperbolic Nonlinear Conservation Laws"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1042",
+      "family_name": "Yang",
+      "given_name": "Zesheng",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10109": "DeVore, Ronald Alvin"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1995",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Wavelets and Image Compression"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1043",
+      "family_name": "Adzievski",
+      "given_name": "Kuzman",
+      "mrauth_id": "283232",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10315": "Stoll, Manfred"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1995",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Boundary Behavior of Pluri-Green Potentials in the Unit Ball of C^n"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1044",
+      "family_name": "Allis",
+      "given_name": "James",
+      "mrauth_id": "724341",
+      "other_names": "(Skip)",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "5767": "Roberts, James Warren"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1995",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Quotient of Space of Measurable Funct. by the Closed Span of Rademacher Functs"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1045",
+      "family_name": "Rzepecki",
+      "given_name": "Leszek",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10315": "Stoll, Manfred"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1995",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Boundary Behavior of Non-isotropic Potentials in the Unit Ball of C^n"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1046",
+      "family_name": "Walcher",
+      "given_name": "Kara",
+      "mrauth_id": "612981",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "7998": "Sumner, David P"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1995",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Matching Extensions in Powers of Graphs"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1047",
+      "family_name": "Lengvarszky",
+      "given_name": "Zsolt",
+      "mrauth_id": "112490",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "12996": "McNulty, George Frank"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1996",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Independent Subsets in Lattices"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1048",
+      "family_name": "Shao",
+      "given_name": "Wei",
+      "mrauth_id": "264290",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10109": "DeVore, Ronald Alvin"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1996",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Image Processing and Neutral Networks"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1049",
+      "family_name": "Solan",
+      "given_name": "Ikhalfani (Junior)",
+      "mrauth_id": "627126",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "865": "Filaseta, Michael Anthony"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1996",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Norms of Factors of Polynomials, An Extension of a Theorem of Ljunggren, and the Distribution of K-free Numbers"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1050",
+      "family_name": "Zheng",
+      "given_name": "Weimin",
+      "mrauth_id": "624475",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "11312": "Jawerth, Björn D."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1996",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Signal Processing and Numerical Partial Differential Equations"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1051",
+      "family_name": "Zhu",
+      "given_name": "Chuanzhong",
+      "mrauth_id": "244161",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "10271": "Griggs, Jerrold Robinson"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1996",
+            "schools": ["University of South Carolina, United States"],
+            "thesis_title": "Results on Intersecting Families of Subsets of a Finite Set"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1052",
+      "family_name": "Chen",
+      "given_name": "Xuzhou",
+      "mrauth_id": "333032",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "14997": "Hartwig, Robert E."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1996",
+            "schools": ["North Carolina State University, United States"],
+            "thesis_title": "The Matrix Iterative Analysis"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "1053",
+      "family_name": "Harger, Jr",
+      "given_name": "Robert",
+      "mrauth_id": "659367",
+      "other_names": "Thomas",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "5993": "Misra, Kailash C."
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "1996",
+            "schools": ["North Carolina State University, United States"],
+            "thesis_title": "Level Two Integrable Highest Wgt Rep. of the Affine Lie Algebra A7(2)"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  }
+]

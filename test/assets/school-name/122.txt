@@ -1,0 +1,1 @@
+<h1> School key: school name, country</h1><h2>122: Donetsk University, Ukraine</h2><p> For a full list use the endpoint             <code>/api/v2/MGP/schoolnames/</code>, although              this may take some time.

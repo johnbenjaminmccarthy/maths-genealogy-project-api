@@ -1,0 +1,31 @@
+{
+  "MGP_academic": {
+    "ID": "7824",
+    "family_name": "Cayley",
+    "given_name": "Arthur",
+    "mrauth_id": "238661",
+    "other_names": "",
+    "student_data": {
+      "degrees": [
+        {
+          "advised by": {
+            "42016": "Hopkins, William"
+          },
+          "degree_msc": "Unknown",
+          "degree_type": "Ph.D. / Ph.D. / Dr Sc.",
+          "degree_year": "1864/1865/1875",
+          "schools": ["Universiteit Leiden, Netherlands"],
+          "thesis_title": "(First two degrees were Law degrees)"
+        }
+      ],
+      "descendants": {
+        "advisees": [
+          ["6965", "Scott, Charlotte Angas"],
+          ["13135", "Baker, Henry Frederick"],
+          ["17829", "Forsyth, Andrew Russell"]
+        ],
+        "descendant_count": 14294
+      }
+    }
+  }
+}

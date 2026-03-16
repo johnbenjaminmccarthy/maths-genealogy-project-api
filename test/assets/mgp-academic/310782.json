@@ -1,0 +1,27 @@
+{
+  "MGP_academic": {
+    "ID": "310782",
+    "family_name": "ibn Yahya al-Masihi",
+    "given_name": "Abu Sahl 'Isa",
+    "mrauth_id": "",
+    "other_names": "",
+    "student_data": {
+      "degrees": [
+        {
+          "advised by": {
+            "0": "Unknown"
+          },
+          "degree_msc": "Unknown",
+          "degree_type": "Unknown",
+          "degree_year": "Unknown",
+          "schools": [""],
+          "thesis_title": "Unknown"
+        }
+      ],
+      "descendants": {
+        "advisees": [["298616", "ibn Sina, Abu ʿAli al-Husayn (Avicenna)"]],
+        "descendant_count": 244349
+      }
+    }
+  }
+}

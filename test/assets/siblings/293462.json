@@ -1,0 +1,87 @@
+[
+  {
+    "MGP_academic": {
+      "ID": "179764",
+      "family_name": "Walpuski",
+      "given_name": "Thomas",
+      "mrauth_id": "1037882",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "36909": "Donaldson, Simon Kirwan"
+            },
+            "degree_msc": "53",
+            "degree_type": "Ph.D.",
+            "degree_year": "2013",
+            "schools": ["Imperial College London, United Kingdom"],
+            "thesis_title": "Gauge theory on G2-manifolds"
+          }
+        ],
+        "descendants": {
+          "advisees": [
+            ["307894", "Bera, Gorapada"],
+            ["325290", "Gutwein, Dominik"]
+          ],
+          "descendant_count": 2
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "186346",
+      "family_name": "Oliveira",
+      "given_name": "Goncalo",
+      "mrauth_id": "1087767",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "36909": "Donaldson, Simon Kirwan"
+            },
+            "degree_msc": "53",
+            "degree_type": "Ph.D.",
+            "degree_year": "2014",
+            "schools": ["Imperial College London, United Kingdom"],
+            "thesis_title": "Monopoles in Higher Dimensions"
+          }
+        ],
+        "descendants": {
+          "advisees": [["327357", "Fadel, Daniel Gomes"]],
+          "descendant_count": 1
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "272547",
+      "family_name": "Li",
+      "given_name": "Yang",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "36909": "Donaldson, Simon Kirwan",
+              "63421": "Haskins, Mark"
+            },
+            "degree_msc": "53",
+            "degree_type": "Ph.D.",
+            "degree_year": "2019",
+            "schools": ["Imperial College London, United Kingdom"],
+            "thesis_title": "Metric Collapsing on Calabi-Yau 3-folds"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  }
+]

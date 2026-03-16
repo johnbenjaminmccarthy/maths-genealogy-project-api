@@ -1,0 +1,56 @@
+[
+  {
+    "MGP_academic": {
+      "ID": "291155",
+      "family_name": "Mladenov",
+      "given_name": "Borislav",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "93812": "Thomas, Richard Paul"
+            },
+            "degree_msc": "14",
+            "degree_type": "Ph.D.",
+            "degree_year": "2022",
+            "schools": ["Imperial College London, United Kingdom"],
+            "thesis_title": "Formality of differential graded algebras and complex Lagrangian submanifolds"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  },
+  {
+    "MGP_academic": {
+      "ID": "320669",
+      "family_name": "Petico",
+      "given_name": "Benedikt",
+      "mrauth_id": "",
+      "other_names": "",
+      "student_data": {
+        "degrees": [
+          {
+            "advised by": {
+              "60178": "Li, Xue-Mei"
+            },
+            "degree_msc": "Unknown",
+            "degree_type": "Ph.D.",
+            "degree_year": "2024",
+            "schools": ["Imperial College London, United Kingdom"],
+            "thesis_title": "Coarse Intrinsic and Extrinsic Curvature in Riemannian Geometry"
+          }
+        ],
+        "descendants": {
+          "advisees": [""],
+          "descendant_count": 0
+        }
+      }
+    }
+  }
+]

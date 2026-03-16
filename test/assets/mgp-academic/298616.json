@@ -1,0 +1,29 @@
+{
+  "MGP_academic": {
+    "ID": "298616",
+    "family_name": "ibn Sina",
+    "given_name": "Abu ʿAli al-Husayn",
+    "mrauth_id": "",
+    "other_names": "(Avicenna)",
+    "student_data": {
+      "degrees": [
+        {
+          "advised by": {
+            "310782": "ibn Yahya al-Masihi, Abu Sahl 'Isa",
+            "316872": "ibn Ibrahim al-Natili, Abu Abdallah Al-Husayn",
+            "316873": "ibn Nuh al-Qumri, Abu Mansur al-Hasan"
+          },
+          "degree_msc": "Unknown",
+          "degree_type": "Unknown",
+          "degree_year": "Unknown",
+          "schools": [""],
+          "thesis_title": "Unknown"
+        }
+      ],
+      "descendants": {
+        "advisees": [["287468", "ibn al-Marzubān, Bahmanyār"]],
+        "descendant_count": 244348
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "MGP_academic": {
+    "ID": "60985",
+    "family_name": "Leibniz",
+    "given_name": "Gottfried",
+    "mrauth_id": "112095",
+    "other_names": "Wilhelm",
+    "student_data": {
+      "degrees": [
+        {
+          "advised by": {
+            "60984": "Weigel, Erhard",
+            "137705": "Thomasius, Jakob"
+          },
+          "degree_msc": "Unknown",
+          "degree_type": "Dr. phil.",
+          "degree_year": "1666",
+          "schools": ["Universität Leipzig, Germany"],
+          "thesis_title": "Disputatio arithmetica de complexionibus"
+        },
+        {
+          "advised by": {
+            "143859": "Schwendendörffer, Bartholomäus Leonhard"
+          },
+          "degree_msc": "Unknown",
+          "degree_type": "Dr. jur.",
+          "degree_year": "1667",
+          "schools": ["Universität Altdorf, Germany"],
+          "thesis_title": "Disputatio Inauguralis De Casibus Perplexis In Jure"
+        },
+        {
+          "advised by": {
+            "125561": "Huygens, Christiaan"
+          },
+          "degree_msc": "Unknown",
+          "degree_type": "Unknown",
+          "degree_year": "1676",
+          "schools": ["Académie royale des sciences de Paris, France"],
+          "thesis_title": "Unknown"
+        }
+      ],
+      "descendants": {
+        "advisees": [
+          ["47793", "von Wolff, Christian M."],
+          ["143011", "Malebranche, Nicolas"]
+        ],
+        "descendant_count": 183580
+      }
+    }
+  }
+}
